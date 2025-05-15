@@ -4,13 +4,15 @@
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
 
 ## 🧠 Algorithm
-1. Print the character `'T'`.
-2. Print the character `'a'`.
+1. Print the character `'E'`.
+2. Print the character `'h'`.
 
 ## 🧾 Program
 ```
-print('E')
-print('h')
+A = 'E'
+B = 'h'
+print(A)
+print(B)
 ```
 
 ## Output
